@@ -12,7 +12,7 @@ select v.platform, v.name, v.url, v.sort_order from (values
   ('tiktok',    'TikTok',         'https://tiktok.com/@0dthan', 40),
   ('clapper',   'Clapper',        'https://clapperapp.com/ODTHAN', 50),
   ('pinterest', 'Pinterest',      'https://pin.it/CtbeDv24Y', 60),
-  ('youtube',   'YouTube',        'https://www.youtube.com/@Odthan-InfGlo', 70),
+  ('youtube',   'YouTube',        'https://www.youtube.com/@Odthan-IG', 70),
   ('whatsapp',  'Chèn WhatsApp',  'https://whatsapp.com/channel/0029VbDlDmwK5cDHTyJc1O3R', 80),
   ('whatsapp',  'WhatsApp Prive', 'https://wa.me/message/2TYS4RRA5CMXA1', 90)
 ) as v(platform, name, url, sort_order)
